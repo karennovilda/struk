@@ -1,0 +1,2 @@
+# struk
+struk pom spbu
